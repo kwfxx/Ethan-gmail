@@ -1,4 +1,3 @@
-# Ethan-gmail
 import os
 import requests
 from user_agent import generate_user_agent
